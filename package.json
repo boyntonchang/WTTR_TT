@@ -2,6 +2,9 @@
   "name": "Gulp-Patterns",
   "version": "0.2.0",
   "description": "Gulp Patterns",
+    "engines":{
+        "node":"0.12.x"
+    },
   "authors": [
     "John Papa"
   ],
@@ -9,7 +12,7 @@
   "homepage": "https://github.com/johnpapa/gulp-patterns",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/gulp-patterns.git"
+    "url": "https://github.com/boyntonchang/wttr_tt.git"
   },
   "scripts": {
     "init": "npm install",
